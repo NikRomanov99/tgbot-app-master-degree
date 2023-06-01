@@ -1,0 +1,1 @@
+rootProject.name = "tgbot-app-master-degree"
